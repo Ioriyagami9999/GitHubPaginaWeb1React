@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/GitHubPaginaWeb1React/static/js/main.fc645056.js",
+    "main.js": "/GitHubPaginaWeb1React/static/js/main.88fdc558.js",
+    "static/media/perfil.jpg": "/GitHubPaginaWeb1React/static/media/perfil.afd60b29bac95b4f49f5.jpg",
     "index.html": "/GitHubPaginaWeb1React/index.html",
-    "main.fc645056.js.map": "/GitHubPaginaWeb1React/static/js/main.fc645056.js.map"
+    "main.88fdc558.js.map": "/GitHubPaginaWeb1React/static/js/main.88fdc558.js.map"
   },
   "entrypoints": [
-    "static/js/main.fc645056.js"
+    "static/js/main.88fdc558.js"
   ]
 }
